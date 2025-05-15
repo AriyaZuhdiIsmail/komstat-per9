@@ -2,3 +2,4 @@ mtcars
 str(mtcars)
 mean(mtcars$mpg)
 hist(mtacrs$mpg)
+median(mtacrs$mpg)
